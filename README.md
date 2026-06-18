@@ -13,7 +13,6 @@ OpenCode Remote is a dedicated desktop application designed to provide secure, r
 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="16" height="16"> **macOS** | Apple Silicon (ARM64) | [Download .dmg](https://github.com/MOHAMEDHAMED1S/OpenCode_remote_/releases/download/v1.0/OpenCode_Remote-1.0.0-arm64.dmg) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="16" height="16"> **Windows** | 64-bit (x64) | [Download .exe](https://github.com/MOHAMEDHAMED1S/OpenCode_remote_/releases/download/v1.0/OpenCode.Remote.1.0.0.portable.exe) |
 
-*(Note: Replace the Windows link `#` with your actual release URL once uploaded)*
 
 ## Key Features
 
